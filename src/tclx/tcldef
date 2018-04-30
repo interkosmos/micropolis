@@ -1,3 +1,0 @@
-# Temporary TCLDEFAULT file for debugging
-set TCLPATH /tmp/micropolis-master/micropolis-activity/src/tclx/tcllib
-set TCLINIT /tmp/micropolis-master/micropolis-activity/src/tclx/tcllib/tclinit.tcl
